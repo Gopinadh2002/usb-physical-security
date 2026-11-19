@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Database and backups (contain password hash and device details)
+*.db
+*.db-journal
+usb_security_backup_*.db
+
+# Build output
+build/
+dist/
+*.spec
+
+# Editors and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
