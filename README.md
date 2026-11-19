@@ -25,6 +25,11 @@ A Windows desktop application that controls which USB devices may be used on a c
 - Windows Defender enabled (needed for the Defender scan check)
 - Administrator rights (needed to enable and disable devices)
 
+## Download
+ - The ready-to-run Windows executable is available under Releases.
+ - Right-click it and run as Administrator on first use. Windows or your antivirus may warn
+ - about it because it is unsigned and it changes device settings.
+
 ## Setup
 
 ```
